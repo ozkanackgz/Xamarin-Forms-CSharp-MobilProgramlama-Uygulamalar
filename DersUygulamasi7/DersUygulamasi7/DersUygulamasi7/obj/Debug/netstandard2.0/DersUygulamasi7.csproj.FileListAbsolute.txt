@@ -1,0 +1,14 @@
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\bin\Debug\netstandard2.0\DersUygulamasi7.deps.json
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\bin\Debug\netstandard2.0\DersUygulamasi7.dll
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\bin\Debug\netstandard2.0\DersUygulamasi7.pdb
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.AssemblyInfoInputs.cache
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.AssemblyInfo.cs
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.dll
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\refint\DersUygulamasi7.dll
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\DersUygulamasi7.pdb
+C:\Users\ozkan\source\repos\DersUygulamasi7\DersUygulamasi7\DersUygulamasi7\obj\Debug\netstandard2.0\ref\DersUygulamasi7.dll

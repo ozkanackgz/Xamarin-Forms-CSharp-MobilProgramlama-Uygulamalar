@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulamasi12.MainPage">
+
+    <StackLayout>
+        <Label Text="Keyboard.Default"></Label>
+        <Entry Keyboard="Default"></Entry>
+
+        <Label Text="Keyboard.Chat"></Label>
+        <Entry Keyboard="Chat"></Entry>
+
+        <Label Text="Keyboard.Email"></Label>
+        <Entry Keyboard="Email"></Entry>
+
+        <Label Text="Keyboard.Numeric"></Label>
+        <Entry Keyboard="Numeric"></Entry>
+
+        <Label Text="Keyboard.Telephone"></Label>
+        <Entry Keyboard="Telephone"></Entry>
+    </StackLayout>
+
+</ContentPage>

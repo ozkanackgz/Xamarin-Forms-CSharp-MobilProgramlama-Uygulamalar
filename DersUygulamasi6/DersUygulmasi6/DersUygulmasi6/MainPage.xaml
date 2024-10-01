@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulmasi6.MainPage">
+
+    <StackLayout>
+        <Label Text="Sayı-1 :"></Label>
+        <Entry x:Name="txtSayi1" Keyboard="Numeric"></Entry>
+        
+        <Label Text="Sayı-2 :"></Label>
+        <Entry x:Name="txtSayi2" Keyboard="Numeric"></Entry>
+
+        <Button Text="Topla" Clicked="Topla_Clicked" ></Button>
+
+        <Label x:Name="lblSonuc"></Label>
+        
+    </StackLayout>
+
+</ContentPage>

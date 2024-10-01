@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulamasi9.MainPage">
+
+    <StackLayout Padding="20,20,20,20">
+
+        <Label
+            x:Name="lblDeger"
+            FontSize="Medium"
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"
+            ></Label>
+
+        <Slider VerticalOptions="CenterAndExpand"
+                ValueChanged="Slider_ValueChanged"
+                Minimum="0"
+                Maximum="100"
+                ></Slider>
+        
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+﻿Programın Öğrenim Kazanımları :
+Bu bölümü başarı ile tamamlayan öğrenciler :
+ÖK-1 :	ÖÇ-1: İşletmenin temel fonksiyonlarıyla ilgili gerekli bilgilere sahip olur ve işletmenin yönetim ilkelerini sürekli değişen bilişim sistemleri alanına uygular (TYÇÇ-Bilgi-Kuramsal)
+ÖK-2 :	ÖÇ-2: Disiplinler arası çalışmalar yürütebilmek için farklı disiplinlerde (Ekonomi, Finans, Sosyoloji, Hukuk, İşletme, Sağlık, Teknoloji vb. ) temel bilgileri ve verileri analiz ederek alanında kullanır (TYÇÇ-Beceriler-Bilişsel, Uygulamalı)
+ÖK-3 :	ÖÇ-3: Mesleki çalışmalarda toplumsal etik değerlere göre hareket eder (TYÇÇ-Yetkinlik-Alana Özgü Yetkinlik)
+ÖK-4 :	ÖÇ-4: Bilişim ve yönetim alanında gerekli olan mesleki yabancı dil yeterliliğini gösterir (TYÇÇ-Yetkinlik-İletişim ve Sosyal Yetkinlik)
+ÖK-5 :	ÖÇ-5: Programlama ve veri tabanı mantığını kavrayarak farklı platform yazılımlarını tek başına ve/veya bir ekip içerisinde yazar (TYÇÇ-Yetkinlik-Bağımsız Çalışabilme, Sorumluluk Alabilme)
+ÖK-6 :	ÖÇ-6: Bilişim projeleri hazırlar, takım çalışmalarında bulunur ve yönetir (TYÇÇ-Yetkinlik-Bağımsız Çalışabilme, Sorumluluk Alabilme)
+ÖK-7 :	ÖÇ-7: Mesleki alanda yaşam boyu öğrenmenin gerekliliği bilinciyle bilim ve teknolojideki gelişmeleri izleyerek kendini sürekli yenileyip edindiği bilgi ve becerileri eleştirel olarak değerlendirir (TYÇÇ-Yetkinlik-Öğrenme Yetkinliği)
+ÖK-8 :	ÖÇ-8: Bilgi güvenliği, proje yönetimi, işyeri uygulamaları, çalışanların sağlığı, çevresel risk değerlendirme, çevre ve iş güvenliği konularında bilince sahip olur (TYÇÇ- Bilgi-Kuramsal)
+ÖK-9 :	ÖÇ-9: Bilgi yönetim sürecini bilir ve bilgi sistemlerini kullanıcılar için daha etkin, verimli ve memnuniyet verici şekilde kullanılabilir hale getirir (TYÇÇ-Yetkinlik-İletişim ve Sosyal Yetkinlik)
+ÖK-10 :	ÖÇ-10: Güncel teknoloji ve alanıyla ilgili gelişmeler hakkında bilgi sahibi olur, sahip olduğu bilgi ve deneyimi yeni sistemlere akredite edebilir ve bunları farklı alanlardaki problemlerin çözümünde kullanır(TYÇÇ-Yetkinlik-Alana Özgü Yetkinlik)

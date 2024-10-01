@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulamasi10.MainPage">
+
+    <StackLayout Padding="20,20,20,20">
+
+        <Slider x:Name="sKirmizi" Maximum="255" VerticalOptions="CenterAndExpand" ValueChanged="Slider_ValueChanged"></Slider>
+        <Label x:Name="lblKirmizi"></Label>
+
+        <Slider x:Name="sYesil" Maximum="255" VerticalOptions="CenterAndExpand" ValueChanged="Slider_ValueChanged"></Slider>
+        <Label x:Name="lblYesil"></Label>
+
+        <Slider x:Name="sMavi" Maximum="255" VerticalOptions="CenterAndExpand" ValueChanged="Slider_ValueChanged"></Slider>
+        <Label x:Name="lblMavi"></Label>
+
+        <BoxView x:Name="bRenkKutusu" VerticalOptions="Center" Color="Black" WidthRequest="100" HeightRequest="100"></BoxView>
+    </StackLayout>
+
+</ContentPage>

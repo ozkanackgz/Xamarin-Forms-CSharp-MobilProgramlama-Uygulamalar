@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulamasi1.AnaSayfa">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="ForestGreen"
+                     Padding="20, 20, 20, 20">
+            <Label Text="Merhaba YBS"
+                   FontSize="Medium"
+                   TextColor="DarkOliveGreen"    
+                   BackgroundColor="LightGreen"
+                VerticalOptions="Start" 
+                HorizontalOptions="Start" />
+
+            <Label Text="İkinci Satır" 
+                   FontSize="Medium"
+                   TextColor="Blue"
+                   BackgroundColor="White"
+                   VerticalOptions="Start"
+                   HorizontalOptions="Start"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

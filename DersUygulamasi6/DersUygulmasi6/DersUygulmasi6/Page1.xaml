@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulmasi6.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="a :"></Label>
+            <Entry x:Name="txtA" Keyboard="Numeric"></Entry>
+
+            <Label Text="b :"></Label>
+            <Entry x:Name="txtB" Keyboard="Numeric"></Entry>
+
+            <Label Text="c :"></Label>
+            <Entry x:Name="txtC" Keyboard="Numeric"></Entry>
+
+            <Button Text="Denklem Kökleri" Clicked="Topla_Clicked" ></Button>
+
+            <Label x:Name="lblSonuc"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

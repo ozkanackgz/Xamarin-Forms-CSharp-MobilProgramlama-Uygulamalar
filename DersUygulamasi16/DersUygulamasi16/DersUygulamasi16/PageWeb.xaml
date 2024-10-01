@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DersUygulamasi16.PageWeb">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Keyboard="Url" Placeholder="Web Adresi Giriniz" Completed="Entry_Completed"/>
+
+            <StackLayout>
+                <Button Text="Geri"
+                        FontSize="Large"
+                        HorizontalOptions="FillAndExpand"
+                        BindingContext="{x:Reference mywebView}"
+                        IsEnabled="{Binding CanGoBack}"
+                        Clicked="Geri_Clicked"></Button>
+
+                <Button Text="İleri"
+                        FontSize="Large"
+                        HorizontalOptions="FillAndExpand"
+                        BindingContext="{x:Reference mywebView}"
+                        IsEnabled="{Binding CanGoForward}"
+                        Clicked="Ileri_Clicked"></Button>
+            </StackLayout>
+
+            <WebView x:Name="mywebView"
+                     VerticalOptions="FillAndExpand"
+                     Source="https://www.ktu.edu.tr/ybs"></WebView>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
